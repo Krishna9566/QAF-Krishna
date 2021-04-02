@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test suite" verbose="2">	
+<test name="Test name">
+<groups>
+      <run>
+        <include name="@Logininsta"/>
+      </run>
+    </groups>
+<parameter name="paramss" value="krishna"/>
+<classes>
+<class name="Runnerclass.Runner">
+</class>
+</classes>
+</test>
+</suite>
